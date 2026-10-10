@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Pihenokereso" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#1565C0</item>
+    </style>
+</resources>

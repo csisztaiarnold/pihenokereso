@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- tető -->
+    <path android:fillColor="#FFFFFF" android:pathData="M30,52 L54,34 L78,52 L72,52 L54,39 L36,52 Z"/>
+    <!-- oszlopok -->
+    <path android:fillColor="#FFFFFF" android:pathData="M38,52h4v22h-4z M66,52h4v22h-4z"/>
+    <!-- pad -->
+    <path android:fillColor="#FFFFFF" android:pathData="M44,64h20v4h-20z"/>
+</vector>
